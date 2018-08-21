@@ -1,0 +1,74 @@
+<!DOCTYPE html> 
+<style>
+    h1 {
+    color: blue;
+    }
+    footer {
+       color:green;
+    }
+    footer {
+       color:orange;
+    }
+</style>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Natalia Tucholska | Designer </title>
+        <link rel = "stylesheet" href = "css/normalize.css">
+        <link rel = "stylesheet" href= "css/main.css">
+        <style>
+          nav a {
+             color:white;
+             background-color:orange;
+          }
+    </head>
+    <body>
+        <header>
+          <a href = "index.html"  id = "logo">
+            <h1>Natalia Tucholska</h1>
+            <h2> Designer </h2>
+          </a>
+          <nav>
+             <ul>
+                <li> <a href= "index.html"> Portfolio </a> </li>
+                <li> <a href= "about.html"> About </a> </li>
+                <li> <a href= "contact.html"> Contact </a> </li>
+           </nav> 
+        </header id = "wrapper">
+        <div>
+        <section>
+           <ul>
+               <li>
+                  <a href= "http://twitter.com/nickrp"><img                         src="img/twitter-wrap.png" alt="Twitter Logo"> </a>
+                  <a href = "http://facebook.com/nickpettit"><img src = "img/facebook-wrap.png" alt = "Facebook Logo"></a> 
+                  <a href= "img/numbers-01.jpg">
+                  <img src="img/numbers-01.jpg" alt="">
+                  <p> Experimentation with color and texture. </p> 
+               </li>
+               <li>
+                  <a href= "img/numbers-02.jpg">
+                  <img src="img/numbers-02.jpg" alt="">
+                  <p>Playing with blending modes in Photoshop.</p> 
+               </li>
+               <li>
+                  <a href= "img/numbers-06.jpg">
+                  <img src="img/numbers-06.jpg" alt="">
+                  <p>Trying to create an 80's style of glows.</p> 
+               </li>
+               <li>
+                  <a href= "img/numbers-09.jpg">
+                  <img src="img/numbers-09.jpg" alt="">
+                  <p> Drips created using Photoshop brushes. </p> 
+               </li>
+               <li>
+                  <a href= "img/numbers-01.jpg">
+                  <img src="img/numbers-01.jpg" alt="">
+                  <p> Creating shapes using repetition. </p> 
+               </li>
+           <ul>
+        </section>
+        <footer>
+           <p>&copy; 2018 Natalia Tucholska. </p> 
+        </footer>
+    </body>
+</html>
