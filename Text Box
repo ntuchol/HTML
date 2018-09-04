@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html lang = "en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>greet.html</title>
+    <script type = "text/javascript">
+    function greet() {
+       alert("Hi there! Thanks for clicking me");
+      } //end greet 
+    </script>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <label for="txtName"> Please type your name </label>
+            <input type = "text"
+                   id = "txtName" /> 
+            <button type = "button"
+                 onclick = "greet() ">
+               submit
+            </button> 
+          </fieldset>
+        </form>
+</body>
+</html> 
