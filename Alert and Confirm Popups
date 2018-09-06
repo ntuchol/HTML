@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Alert and Confirm Popups</title>
+    <script>
+        alert("Click to proceed");
+        confirm("Click here to proceed");
+    </script>
+</head>
+</html>
+     
+<html>
+<head> 
+    <title>Prompt Popup</title>
+    <script>
+        var s = p
+<html>
+<head>
+    <title>Alert and Confirm Popups</title>
+    <script>
+        alert("Click to proceed");
+        confirm("Click here to proceed");
+        var s = prompt("Enter his user id");
+        document.write(s); 
+    </script>
+</head>
+</html>
+     
