@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Internal Script</title>
+    <script>
+    document.write("Inside the head element<br/>");
+    document.write("Inside the body element");
+    </script>
+</head>
+<body>
+    <script>
+    document.write("Line 2");
+    </script>
+    <b>Using Html Comments</b>
+</body>
+</html>
