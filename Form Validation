@@ -1,0 +1,26 @@
+<html>
+<head>
+<body>
+<script>
+
+function validate() {
+   
+   var password_1 = document.getElementById('password_1').value;
+   var password_2 = document.getElementById('password_2').value;
+   if(password_1 == password_2) {
+       alert("Good!");
+}
+else {
+     alert("Check your Passwords!");
+ }
+}
+
+</script>
+<form action="#" method="POST">
+<input type="text" placeholder="Enter the Password" id="password_1"/>
+<input type="text" placeholder="Re-Enter Password" id="password_2"/>
+<input type="Submit" onClick="validate(); "/>
+</form>
+</body>
+</head>
+</html>
