@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+
+<head>
+   <title>Homepage</title>
+</head>
+
+<body>
+<p align="center">
+ <h1 align ="center"> Welcome to My Website</h1>
+
+   <a href= "index.htm"> Homepage</a>
+   <a href="blog.htm">Blog</a>
+   <a href="gallery.htm">Gallery</a>
+   <a href="report.htm">Students Data</a>
+   <a href="application.htm">Application Form</a>
+   <a href="contact.htm">Contact</a>
+   <a href="resources.htm">Resources</a>
+   </p>
+   
+   <h1 align="center"> Natalia Tucholska</h1>
+   
+<p align="center"><i>  Blogging is love and war. </i>
+
+<hr>
+<p>From my 10+ years of writing daily, I can tell you there will be moments when you’re chock-full of motivation. Ideas leap off your mind and straight onto the page. You get inspired by the thought of creating content that will generate massive buzz.</p>
+
+<p>
+And there are other moments when the excitement is reduced to a glimmer. You jump from half-baked idea to half-baked idea, taking up hours of your time, before getting to that last sentence. You teeter on the verge of giving up.
+</p>
+
+<p>
+It happens to all of us.
+
+Even the best writers have the same wishy-washy relationship with blogging.
+
+And do you know what? We have no choice but to pull through.
+
+Blog posts are still the #1 asset for engaging with your audience and generating warm leads for your business.
+
+In fact, marketers who use blogs generate 67% more leads than those who don’t. Not only that, blog posts cost 62% less per lead than outbound marketing.
+</p>
+   <hr>
+   <p><a href="mailto:ntuchol@bu.edu">ntuchol@bu.edu</a></p>
+   <p align="center">&copy; Copyright 2018.    www.abc.com</p>
+   
+</body>
+</html>
