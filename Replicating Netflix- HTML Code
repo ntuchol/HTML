@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>Netflix Spain- Watch TV Shows Online, Watch Movies </title> 
+      <link href="css/style.css" rel="stylesheet"/>
+   </head>
+   
+   <body>
+     <header>
+       <nav>
+         <a href="#">Netflix</a>
+         <img alt="Cancel anytime" src = "img/cancel.svg"/> 
+       </nav>
+       <img src="img/logo.svg">
+       </a>
+     <a class="signin" href="https://www.netflix.com/login">
+       Sign In
+     </a>
+      <h1>See what's next.</h1>
+     </header>
+  <section class="pitch">
+    <h1 class="pitch_title">See what's next. </h1>
+    <p class="pitch_subtitle"> WATCH ANYWHERE. CANCEL ANYTIME. CANCEL ANYTIME </p>
+    <button class="btn"> JOIN FREE FOR A MONTH </button>
+   </section>
+  </header>
+ </body>
+</html> 
